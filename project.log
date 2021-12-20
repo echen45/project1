@@ -1,0 +1,124 @@
+2021-12-14 20:46:02 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 20:58:35 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:03:53 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:08:08 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:08:12 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:08:13 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:08:14 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:08:15 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:09:32 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:09:35 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:09:36 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:10:35 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:11:56 ERROR ReimbursementDaoImpl:63 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-14 21:17:26 ERROR ReimbursementDaoImpl:66 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-15 18:21:46 ERROR ReimbursementDaoImpl:114 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-15 18:23:11 ERROR ReimbursementDaoImpl:114 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-15 18:26:00 ERROR ReimbursementDaoImpl:115 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-15 18:27:29 ERROR ReimbursementDaoImpl:116 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-15 18:29:14 ERROR ReimbursementDaoImpl:119 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-15 18:30:35 ERROR ReimbursementDaoImpl:120 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-15 18:35:34 ERROR ReimbursementDaoImpl:120 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-15 18:42:08 ERROR ReimbursementDaoImpl:120 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-15 18:42:21 ERROR ReimbursementDaoImpl:120 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-15 18:42:36 ERROR ReimbursementDaoImpl:120 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-15 19:53:27 ERROR ReimbursementDaoImpl:120 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_resolver_fkey"
+  Detail: Key (reimb_resolver)=(0) is not present in table "ers_users".
+2021-12-17 18:54:59 ERROR UserDaoImpl:66 - org.postgresql.util.PSQLException: FATAL: database "reimbursement" does not exist
+2021-12-17 18:55:10 ERROR UserDaoImpl:66 - org.postgresql.util.PSQLException: FATAL: database "reimbursement" does not exist
+2021-12-17 18:55:22 ERROR UserDaoImpl:66 - org.postgresql.util.PSQLException: FATAL: database "reimbursement" does not exist
+2021-12-17 18:57:40 ERROR UserDaoImpl:66 - org.postgresql.util.PSQLException: The column index is out of range: 1, number of columns: 0.
+2021-12-17 19:06:41 ERROR UserDaoImpl:67 - org.postgresql.util.PSQLException: The column index is out of range: 1, number of columns: 0.
+2021-12-17 19:59:14 ERROR UserDaoImpl:84 - org.postgresql.util.PSQLException: The column index is out of range: 1, number of columns: 0.
+2021-12-17 20:01:41 ERROR UserDaoImpl:84 - org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-12-17 20:03:08 ERROR UserDaoImpl:84 - org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-12-17 20:04:33 ERROR UserDaoImpl:84 - org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-12-17 20:11:15 ERROR UserDaoImpl:84 - org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-12-17 20:12:50 ERROR UserDaoImpl:84 - org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-12-17 20:15:09 ERROR UserDaoImpl:86 - org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-12-17 20:16:39 ERROR UserDaoImpl:86 - org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-12-17 20:26:34 ERROR UserDaoImpl:86 - org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-12-17 20:46:58 ERROR UserDaoImpl:87 - org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-12-17 20:57:07 ERROR UserDaoImpl:88 - org.postgresql.util.PSQLException: ResultSet not positioned properly, perhaps you need to call next.
+2021-12-18 22:38:42 ERROR ReimbursementDaoImpl:143 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_author_fkey"
+  Detail: Key (reimb_author)=(0) is not present in table "ers_users".
+2021-12-19 09:37:30 ERROR ReimbursementDaoImpl:143 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_author_fkey"
+  Detail: Key (reimb_author)=(0) is not present in table "ers_users".
+2021-12-19 10:23:09 ERROR ReimbursementDaoImpl:143 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_author_fkey"
+  Detail: Key (reimb_author)=(0) is not present in table "ers_users".
+2021-12-19 10:24:13 ERROR ReimbursementDaoImpl:143 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_author_fkey"
+  Detail: Key (reimb_author)=(0) is not present in table "ers_users".
+2021-12-19 10:24:23 ERROR ReimbursementDaoImpl:143 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_author_fkey"
+  Detail: Key (reimb_author)=(0) is not present in table "ers_users".
+2021-12-19 10:24:33 ERROR ReimbursementDaoImpl:143 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_author_fkey"
+  Detail: Key (reimb_author)=(0) is not present in table "ers_users".
+2021-12-19 11:27:53 ERROR ReimbursementDaoImpl:143 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_author_fkey"
+  Detail: Key (reimb_author)=(0) is not present in table "ers_users".
+2021-12-19 11:29:08 ERROR ReimbursementDaoImpl:143 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_author_fkey"
+  Detail: Key (reimb_author)=(0) is not present in table "ers_users".
+2021-12-19 11:29:37 ERROR ReimbursementDaoImpl:143 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_author_fkey"
+  Detail: Key (reimb_author)=(0) is not present in table "ers_users".
+2021-12-19 15:21:30 ERROR UserDaoImpl:41 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_USERS" not found; SQL statement:
+INSERT INTO ERS_USERS VALUES (?, ?, ?, ?, ?, ?); [42102-200]
+2021-12-19 15:21:30 ERROR ReimbursementDaoImpl:143 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT" not found; SQL statement:
+INSERT INTO ers_reimbursement VALUES (default, ?, current_timestamp, current_timestamp, ?, null, ?, ?, default, ?); [42102-200]
+2021-12-19 15:31:13 ERROR UserRoleDaoImpl:63 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_USER_ROLES" not found; SQL statement:
+INSERT INTO ERS_USER_ROLES VALUES (0, 'employee'); [42102-200]
+2021-12-19 15:31:13 ERROR ReimbursementStatusDaoImpl:35 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT_STATUS" not found; SQL statement:
+INSERT INTO ers_reimbursement_status VALUES (0, 'pending'); [42102-200]
+2021-12-19 15:31:13 ERROR ReimbursementTypeDaoImpl:35 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT_TYPE" not found; SQL statement:
+INSERT INTO ers_reimbursement_type VALUES (0, 'LODGING'); [42102-200]
+2021-12-19 15:31:13 ERROR UserDaoImpl:41 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_USERS" not found; SQL statement:
+INSERT INTO ERS_USERS VALUES (?, ?, ?, ?, ?, ?); [42102-200]
+2021-12-19 15:31:13 ERROR ReimbursementDaoImpl:143 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT" not found; SQL statement:
+INSERT INTO ers_reimbursement VALUES (default, ?, current_timestamp, current_timestamp, ?, null, ?, ?, default, ?); [42102-200]
+2021-12-19 15:45:21 ERROR UserRoleDaoImpl:63 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_USER_ROLES" not found; SQL statement:
+INSERT INTO ERS_USER_ROLES VALUES (0, 'employee'); [42102-200]
+2021-12-19 15:45:21 ERROR ReimbursementStatusDaoImpl:35 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT_STATUS" not found; SQL statement:
+INSERT INTO ers_reimbursement_status VALUES (0, 'pending'); [42102-200]
+2021-12-19 15:45:21 ERROR ReimbursementTypeDaoImpl:35 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT_TYPE" not found; SQL statement:
+INSERT INTO ers_reimbursement_type VALUES (0, 'LODGING'); [42102-200]
+2021-12-19 15:45:21 ERROR UserDaoImpl:41 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_USERS" not found; SQL statement:
+INSERT INTO ERS_USERS VALUES (?, ?, ?, ?, ?, ?); [42102-200]
+2021-12-19 15:45:21 ERROR ReimbursementDaoImpl:143 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT" not found; SQL statement:
+INSERT INTO ers_reimbursement VALUES (default, ?, current_timestamp, current_timestamp, ?, null, ?, ?, default, ?); [42102-200]
+2021-12-19 16:02:55 ERROR UserRoleDaoImpl:63 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_USER_ROLES" not found; SQL statement:
+INSERT INTO ERS_USER_ROLES VALUES (0, 'employee'); [42102-200]
+2021-12-19 16:02:55 ERROR ReimbursementStatusDaoImpl:35 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT_STATUS" not found; SQL statement:
+INSERT INTO ers_reimbursement_status VALUES (0, 'pending'); [42102-200]
+2021-12-19 16:02:55 ERROR ReimbursementTypeDaoImpl:35 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT_TYPE" not found; SQL statement:
+INSERT INTO ers_reimbursement_type VALUES (0, 'LODGING'); [42102-200]
+2021-12-19 16:02:55 ERROR UserDaoImpl:41 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_USERS" not found; SQL statement:
+INSERT INTO ERS_USERS VALUES (?, ?, ?, ?, ?, ?); [42102-200]
+2021-12-19 16:02:55 ERROR ReimbursementDaoImpl:143 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT" not found; SQL statement:
+INSERT INTO ers_reimbursement VALUES (default, ?, current_timestamp, current_timestamp, ?, null, ?, ?, default, ?); [42102-200]
+2021-12-19 16:33:14 ERROR UserRoleDaoImpl:63 - org.h2.jdbc.JdbcSQLNonTransientException: General error: "The write format 1 is smaller than the supported format 2 [2.0.202/5]" [50000-202]
+2021-12-19 16:33:14 ERROR ReimbursementStatusDaoImpl:35 - org.h2.jdbc.JdbcSQLNonTransientException: General error: "The write format 1 is smaller than the supported format 2 [2.0.202/5]" [50000-202]
+2021-12-19 16:33:14 ERROR ReimbursementTypeDaoImpl:35 - org.h2.jdbc.JdbcSQLNonTransientException: General error: "The write format 1 is smaller than the supported format 2 [2.0.202/5]" [50000-202]
+2021-12-19 16:33:14 ERROR UserDaoImpl:41 - org.h2.jdbc.JdbcSQLNonTransientException: General error: "The write format 1 is smaller than the supported format 2 [2.0.202/5]" [50000-202]
+2021-12-19 16:33:14 ERROR ReimbursementDaoImpl:143 - org.h2.jdbc.JdbcSQLNonTransientException: General error: "The write format 1 is smaller than the supported format 2 [2.0.202/5]" [50000-202]
+2021-12-19 16:33:14 ERROR ReimbursementDaoImpl:87 - org.h2.jdbc.JdbcSQLNonTransientException: General error: "The write format 1 is smaller than the supported format 2 [2.0.202/5]" [50000-202]
+2021-12-19 17:34:03 ERROR UserRoleDaoImpl:63 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_USER_ROLES" not found; SQL statement:
+INSERT INTO ERS_USER_ROLES VALUES (0, 'employee'); [42102-200]
+2021-12-19 17:34:03 ERROR ReimbursementStatusDaoImpl:35 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT_STATUS" not found; SQL statement:
+INSERT INTO ers_reimbursement_status VALUES (0, 'pending'); [42102-200]
+2021-12-19 17:34:03 ERROR ReimbursementTypeDaoImpl:35 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT_TYPE" not found; SQL statement:
+INSERT INTO ers_reimbursement_type VALUES (0, 'LODGING'); [42102-200]
+2021-12-19 17:34:03 ERROR UserDaoImpl:41 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_USERS" not found; SQL statement:
+INSERT INTO ERS_USERS VALUES (?, ?, ?, ?, ?, ?); [42102-200]
+2021-12-19 17:34:03 ERROR ReimbursementDaoImpl:143 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ERS_REIMBURSEMENT" not found; SQL statement:
+INSERT INTO ers_reimbursement VALUES (default, ?, current_timestamp, current_timestamp, ?, null, ?, ?, default, ?); [42102-200]
+2021-12-19 18:29:18 ERROR ReimbursementDaoImpl:143 - org.postgresql.util.PSQLException: ERROR: insert or update on table "ers_reimbursement" violates foreign key constraint "ers_reimbursement_reimb_author_fkey"
+  Detail: Key (reimb_author)=(0) is not present in table "ers_users".
+2021-12-19 18:29:23 ERROR ReimbursementDaoImpl:157 - org.postgresql.util.PSQLException: ERROR: column "id" does not exist
+  Position: 57
