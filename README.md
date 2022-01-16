@@ -1,4 +1,4 @@
-# Expense Reimbursement System
+# Expense Reimbursement App
 
 ## Project Description
 
