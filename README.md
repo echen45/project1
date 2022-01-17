@@ -17,6 +17,7 @@ This expense reimbursement system allows an employee to submit reimbursement req
 * JUnit - version 5.8.1
 * Mockito - version 4.0.0
 * H2 - version 1.4.200
+* Selenium - version 4.1.0
 * Amazon RDS
 
 ## Features
